@@ -1,0 +1,7 @@
+﻿D:\devsoft\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(444,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+D:\devsoft\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(444,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+D:\devsoft\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+D:\devsoft\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+LINK : warning LNK4001: 未指定对象文件；已使用库
+LINK : error LNK2001: 无法解析的外部符号 mainCRTStartup
+D:\code\opengl\learnopengl\LearnOpenGL\x64\Debug\5.advanced_lighting__8.1.deferred_shading.exe : fatal error LNK1120: 1 个无法解析的外部命令

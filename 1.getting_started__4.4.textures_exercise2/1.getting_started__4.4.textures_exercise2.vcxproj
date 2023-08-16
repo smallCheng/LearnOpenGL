@@ -147,6 +147,9 @@
     <ProjectReference Include="..\glad\glad.vcxproj">
       <Project>{2aa11262-e6ae-4290-83b7-8e7ec576315e}</Project>
     </ProjectReference>
+    <ProjectReference Include="..\STB_IMAGE\STB_IMAGE.vcxproj">
+      <Project>{90d7b32c-9a3b-47cd-9a03-7ed17da70d5c}</Project>
+    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="4.3.texture.fs" />

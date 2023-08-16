@@ -1,0 +1,22 @@
+﻿d:\devsoft\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  lighting_textured.cpp
+D:\code\opengl\learnopengl\LearnOpenGL\LearnOpenGL\include\learnopengl\shader.h(56,40): warning C4101: “e”: 未引用的局部变量
+D:\code\opengl\learnopengl\LearnOpenGL\LearnOpenGL\include\learnopengl\mesh.h(84,1): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\lighting_textured.cpp(123,28): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\lighting_textured.cpp(234,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\lighting_textured.cpp(235,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\lighting_textured.cpp(239,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\lighting_textured.cpp(240,19): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\lighting_textured.cpp(242,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\lighting_textured.cpp(243,13): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\lighting_textured.cpp(252,31): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\lighting_textured.cpp(276,39): warning C4305: “初始化”: 从“double”到“float”截断
+D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\lighting_textured.cpp(314,36): warning C4267: “=”: 从“size_t”转换到“unsigned int”，可能丢失数据
+D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\lighting_textured.cpp(341,57): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\lighting_textured.cpp(343,57): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\lighting_textured.cpp(345,57): warning C4244: “参数”: 从“float”转换到“GLsizei”，可能丢失数据
+D:\devsoft\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(444,5): warning MSB8004: Intermediate 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Intermediate 目录。
+D:\devsoft\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output 目录未以斜杠结尾。  此生成实例将添加斜杠，因为必须有这个斜杠才能正确计算 Output 目录。
+d:\devsoft\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(444,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+d:\devsoft\vs2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(445,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  6.pbr__1.2.lighting_textured.vcxproj -> D:\code\opengl\learnopengl\LearnOpenGL\6.pbr__1.2.lighting_textured\../../bin\6.pbr__1.2.lighting_textured.exe
