@@ -71,7 +71,7 @@
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
-    <IncludePath>D:\code\opengl\learnopengl\LearnOpenGL\include;$(IncludePath)</IncludePath>
+    <IncludePath>..\include;$(IncludePath)</IncludePath>
     <OutDir>../../bin</OutDir>
     <IntDir>../../.dir/$(TargetName)</IntDir>
     <TargetExt>.lib</TargetExt>
